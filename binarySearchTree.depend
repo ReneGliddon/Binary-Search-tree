@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1635920884 source:c:\users\samsung\desktop\code\binarysearchtree\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"bSearchTreeType.h"
+
+1635921642 c:\users\samsung\desktop\code\binarysearchtree\bsearchtreetype.h
+	"binaryTreeType.h"
+	<cassert>
+
+1635897336 c:\users\samsung\desktop\code\binarysearchtree\binarytreetype.h
+	<stddef.h>
+	<iostream>
+
